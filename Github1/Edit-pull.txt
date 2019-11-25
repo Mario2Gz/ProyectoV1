@@ -1,2 +1,3 @@
 usando git pull
 usando push
+usando git pull
